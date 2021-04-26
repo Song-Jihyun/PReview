@@ -10,8 +10,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>PReview</title>
     <script src="https://kit.fontawesome.com/aa3e31b5a4.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="${root}/css/style.css" />
   </head>
+  <body>
 	<header>
 	  <!-- start upper nav -->
 	  <div class="upper-nav row">
@@ -46,4 +47,3 @@
 	  </div>
 	  <!-- end nav -->
 	</header>
-	<body>
