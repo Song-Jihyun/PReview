@@ -26,7 +26,7 @@
       <div class="login__footer">
         <a href="">비밀번호 찾기</a>
         <span>/</span>
-        <a href="">회원가입</a>
+        <a href="${root}/board?act=move&page=register">회원가입</a>
       </div>
     </div>
   </div>

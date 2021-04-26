@@ -17,7 +17,7 @@
 	  <!-- start upper nav -->
 	  <div class="upper-nav row">
 	    <div class="upper-nav__side">
-	      <a href="${root}/index.jsp" class="logo">PReview</a>
+	      <a href="${root}/board?act=move&page=index" class="logo">PReview</a>
 	    </div>
 	    <div class="upper-nav__center">
 	      <div class="search">
@@ -28,8 +28,8 @@
 	      </div>
 	    </div>
 	    <div class="upper-nav__side">
-	      <a href="">로그인</a>
-	      <a href="">회원가입</a>
+	      <a href="${root}/board?act=move&page=login">로그인</a>
+	      <a href="${root}/board?act=move&page=register">회원가입</a>
 	    </div>
 	  </div>
 	  <!-- end upper nav -->
